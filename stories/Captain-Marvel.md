@@ -1,7 +1,7 @@
 # My Open Source Journey ✨
 
 👤 **Name:** Captain Marvel 
-📅 **First Contribution:** October 2023  
+📅 **First Contribution:** October 2025  
 🔧 **Tools/Tech Used:** Python, GitHub, HTML, CSS, C/C++, JAVA, JavaScript 
 
 🌟 **My Experience:**  
